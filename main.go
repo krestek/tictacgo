@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"./board"
+	"github.com/krestek/tictacgo/board"
 )
 
 func main() {
